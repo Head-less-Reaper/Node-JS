@@ -1,0 +1,1 @@
+so whenever we send req and res to the server the server gives bsck two things first is head containg status code and second is body containing the content.

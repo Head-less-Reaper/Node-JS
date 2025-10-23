@@ -1,0 +1,10 @@
+2025-10-03T13:59:41.420Z - application started 
+2025-10-03T13:59:44.423Z - Currrent memory usage : 16.73 
+2025-10-03T13:59:47.434Z - Currrent memory usage : 16.68 
+2025-10-03T13:59:50.441Z - Currrent memory usage : 16.73 
+2025-10-03T13:59:53.454Z - Currrent memory usage : 16.66 
+2025-10-03T13:59:56.459Z - Currrent memory usage : 16.71 
+2025-10-03T13:59:59.460Z - Currrent memory usage : 16.80 
+2025-10-03T14:00:02.470Z - Currrent memory usage : 16.69 
+2025-10-03T14:00:05.469Z - Currrent memory usage : 16.68 
+        
